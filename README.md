@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of xypp/flarum-custom-user-remarks.** Not for installation: use [Packagist](https://packagist.org/packages/xypp/flarum-custom-user-remarks) or the [upstream repository](https://github.com/zxy19/flarum-custom-user-remarks).
 
-**0** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/xypp-flarum-custom-user-remarks/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/xypp-flarum-custom-user-remarks/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2024-10-31 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-flarum-custom-user-remarks/tree/archive/v1.0.0) |
+| `v1.0.1` | 2024-10-31 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-flarum-custom-user-remarks/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/xypp-flarum-custom-user-remarks.json](https://github.com/flarchive/archive-index/blob/main/packages/xypp-flarum-custom-user-remarks.json)
 
